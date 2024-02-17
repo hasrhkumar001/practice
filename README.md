@@ -1,2 +1,3 @@
 # practice
-this repository is for learning
+This repository is for learning
+Author - Harsh Kumar
